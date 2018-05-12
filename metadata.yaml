@@ -1,0 +1,33 @@
+_repo: Mashi-and-Other-Stories_34757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2010-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'India -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, Bengali -- Translations into English'
+- !lcsh 'Tagore, Rabindranath, 1861-1941 -- Translations into English'
+tableOfContents: Mashi -- The skeleton -- The auspicious vision -- The supreme night
+  -- Raja and Rani -- The trust property -- The riddle solved -- The elder sister
+  -- Subha -- The postmaster -- The river stairs -- The castaway -- Saved -- My fair
+  neighbour.
+title: Mashi, and Other Stories
+url: http://www.gutenberg.org/ebooks/34757
